@@ -202,7 +202,7 @@ main {
   align-content: center;
   margin-top: 1rem; }
   .boxes div {
-    font-size: 2rem;
+    font-size: 1.5rem;
     border: 3px #fff solid;
     padding: 0.5rem 1rem;
     margin-bottom: 3rem;
@@ -236,7 +236,8 @@ main {
   padding: 1rem;
   background: #2b2b2b;
   color: #fff;
-  height: 60px; }
+  height: 60px;
+  width: 100%; }
 
 @media screen and (min-width: 1171px) {
   .projects {
