@@ -128,9 +128,16 @@ h3 {
   h1.sm-heading,
   h2.sm-heading,
   h3.sm-heading {
-    margin-bottom: 2rem;
+    margin: 0;
+    font-weight: 500;
+    margin-bottom: 1rem;
     padding: 0.2rem 1rem;
     background: #494949 0.5; }
+
+h2 {
+  margin-bottom: 1rem;
+  padding: 0.1rem 1rem 1rem;
+  background: #494949 0.5; }
 
 a {
   color: #fff;
